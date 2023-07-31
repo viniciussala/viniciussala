@@ -2,7 +2,7 @@
 ### Opa! Beleza? Eu sou o Vinicius Sala 🤙
 
 
-![ViniciusSala's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusSala&show_icons=true&theme=dracula) 
+![ViniciusSala's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusSala&show_icons=true&theme=tokyonight) 
 
 ### Tecnologias que eu estudo
 
