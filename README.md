@@ -13,7 +13,9 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black" />
 </div><br/>
 
-### Buscando pela minha primeira experiência na área, tenho o sonho de me tornar um bom Programador
+### Cursando Análise e Desenvolvimento de Sistemas pela Universidade Positivo.
+
+### Buscando pela minha primeira experiência na área<br> Tenho o sonho de me tornar um bom Programador.<br/>
 
 ---
 
