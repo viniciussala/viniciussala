@@ -13,8 +13,8 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black" />
 </div><br/>
 
-#### Buscando pela minha primeira experiência na área, tenho o sonho de me tornar um bom Programador
+### Buscando pela minha primeira experiência na área, tenho o sonho de me tornar um bom Programador
 
 ---
 
-### Primeiros projetos abaixo 👇
+## Primeiros projetos abaixo 👇
